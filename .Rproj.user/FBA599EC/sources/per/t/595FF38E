@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1608101241563.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1644732986",
+    "id" : "595FF38E",
+    "lastKnownWriteTime" : 1608111407,
+    "last_content_update" : 1608111407289,
+    "path" : "~/Desktop/git/popular_excerpts_and_stimulus_validation/code/1000ms_analysis/model_1000ms_examples.R",
+    "project_path" : "code/1000ms_analysis/model_1000ms_examples.R",
+    "properties" : {
+        "cursorPosition" : "94,0",
+        "scrollLine" : "78",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

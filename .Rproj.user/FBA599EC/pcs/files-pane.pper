@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/git/popular_excerpts_and_stimulus_validation/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
